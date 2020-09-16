@@ -6,11 +6,11 @@
 
 ###### Connect with me
 
-[<img align="left" src = "http://simpleicons.org/icons/codesandbox.svg" width = "42px"/>][codesandbox] 
-[<img align="left" src = "http://simpleicons.org/icons/github.svg" width = "42px"/>][codepen] 
-[<img align="left" src = "http://simpleicons.org/icons/twitter.svg" width = "42px"/>][twitter]
-[<img align="left" src = "http://simpleicons.org/icons/linkedin.svg" width = "42px"/>][linkedin]
-[<img align="left" src = "http://simpleicons.org/icons/instagram.svg" width = "42px"/>][instagram]
+[<img align="left" src = "http://simpleicons.org/icons/codesandbox.svg" width = "32px"/>][codesandbox] 
+[<img align="left" src = "http://simpleicons.org/icons/github.svg" width = "32px"/>][codepen] 
+[<img align="left" src = "http://simpleicons.org/icons/twitter.svg" width = "32px"/>][twitter]
+[<img align="left" src = "http://simpleicons.org/icons/linkedin.svg" width = "32px"/>][linkedin]
+[<img align="left" src = "http://simpleicons.org/icons/instagram.svg" width = "32px"/>][instagram]
 
 <br>
 <br>
