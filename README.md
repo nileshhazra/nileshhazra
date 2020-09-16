@@ -28,6 +28,14 @@
 
 <img align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" width = "38px"/>
 
+<br>
+<br>
+
+###### Tools
+
+<img align="left" src = "https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png" width = "68px"/>
+<img align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" width = "48px"/>
+
 
 
 
