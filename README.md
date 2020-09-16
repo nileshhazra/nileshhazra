@@ -3,3 +3,7 @@
 
 ## I am a web developer and designer
 
+<img align="left" src = "http://simpleicons.org/icons/twitter.svg" width = "22px"/>
+<img align="left" src = "http://simpleicons.org/icons/linkedin.svg" width = "22px"/>
+
+
