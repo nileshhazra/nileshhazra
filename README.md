@@ -17,10 +17,15 @@
 ###### Languages 
 
 
-<img align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width = "52px"/>
-<img align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width = "52px"/>
+<img alt="HTML" align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width = "52px"/>
+<img alt="CSS" align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width = "52px"/>
 
-<img align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" width = "38px"/>
+<img alt="JavaScript" align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" width = "38px"/>
+
+<img alt="NodeJS" align="left" src = "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width = "48px"/>
+<img alt="Python" align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = "52px"/>
+<img alt="Django" align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width = "52px"/>
+
 
 <br>
 <br>
