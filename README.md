@@ -1,7 +1,7 @@
-##### Hi there 
+##### Hello World
 ## I'm Nilesh Hazra
 
-##### I am a web developer and designer
+> I am a web developer and designer
 
 
 ###### Connect with me
