@@ -3,19 +3,14 @@
 
 ##### I am a web developer and designer
 
-###### Social profiles
 
-[<img align="left" src = "http://simpleicons.org/icons/twitter.svg" width = "22px"/>][twitter]
-[<img align="left" src = "http://simpleicons.org/icons/linkedin.svg" width = "22px"/>][linkedin]
-[<img align="left" src = "http://simpleicons.org/icons/instagram.svg" width = "22px"/>][instagram]
-
-<br>
-<br>
-
-###### Developer Profiles
+###### Connect with me
 
 [<img align="left" src = "http://simpleicons.org/icons/codesandbox.svg" width = "42px"/>][codesandbox] 
 [<img align="left" src = "http://simpleicons.org/icons/github.svg" width = "42px"/>][codepen] 
+[<img align="left" src = "http://simpleicons.org/icons/twitter.svg" width = "42px"/>][twitter]
+[<img align="left" src = "http://simpleicons.org/icons/linkedin.svg" width = "42px"/>][linkedin]
+[<img align="left" src = "http://simpleicons.org/icons/instagram.svg" width = "42px"/>][instagram]
 
 <br>
 <br>
