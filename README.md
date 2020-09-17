@@ -23,6 +23,8 @@
 <img alt="JavaScript" align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" width = "38px"/>
 
 <img alt="NodeJS" align="left" src = "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width = "48px"/>
+<img alt="ReactJS" align="left" src = "https://www.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width = "48px"/>
+
 
 
 
