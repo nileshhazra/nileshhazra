@@ -7,9 +7,9 @@
 ###### Connect with me
 
 [<img align="left" src = "http://simpleicons.org/icons/codesandbox.svg" width = "22px"/>][codesandbox] 
-[<img align="left" src = "http://simpleicons.org/icons/twitter.svg" width = "22px"/>][twitter]
-[<img align="left" src = "http://simpleicons.org/icons/linkedin.svg" width = "22px"/>][linkedin]
-[<img align="left" src = "http://simpleicons.org/icons/instagram.svg" width = "22px"/>][instagram]
+[<img align="left" src = "https://www.flaticon.com/svg/static/icons/svg/1051/1051280.svg" width = "22px"/>][twitter]
+[<img align="left" src = "https://www.flaticon.com/svg/static/icons/svg/1051/1051282.svg" width = "22px"/>][linkedin]
+[<img align="left" src = "https://www.flaticon.com/svg/static/icons/svg/1051/1051262.svg" width = "22px"/>][instagram]
 
 <br>
 <br>
