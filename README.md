@@ -1,7 +1,7 @@
 ##### Hello World
 ## I'm Nilesh Hazra
 
-> I am a web developer and designer
+> I design & develop applications for the web and native platforms.
 
 
 ###### Connect with me
