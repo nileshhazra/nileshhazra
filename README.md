@@ -26,6 +26,7 @@
 <img alt="NodeJS" align="left" src = "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width = "44px"/>
 <img alt="ReactJS" align="left" src = "https://www.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width = "48px"/>
 <img alt="Flutter" align="left" src = "https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width = "40px"/>
+<img alt="CSS" align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width = "52px"/>
 
 
 
@@ -38,8 +39,10 @@
 ###### Tools
 
 <img align="left" src = "https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png" width = "68px"/>
+
 <img align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" width = "48px"/>
 <img align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" width="50px"/>
+<img align="left" src = "https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" width = "58px"/>
 
 
 
