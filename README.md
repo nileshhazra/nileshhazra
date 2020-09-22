@@ -3,6 +3,10 @@
 
 > I design & develop applications for the web and native platforms.
 
+* I am currently working on ...
+* I can help you with ...
+
+
 
 ###### Connect with me
 
