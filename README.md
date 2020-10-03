@@ -3,7 +3,7 @@
 
 > I design & develop applications for the web and native platforms.
 
-* I am currently working on a personal project using MERN Stack.
+
 * I can help you if you are starting out in web development.
 
 
