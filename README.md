@@ -29,7 +29,9 @@
 > NodeJS | 
 > ReactJS | 
 > Java | 
-> Python
+> Python |
+> MySQL | 
+> MongoDB
 
 <!--
 <img alt="JavaScript" align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" width = "28px"/>
