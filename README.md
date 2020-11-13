@@ -30,7 +30,7 @@
 <hr>
 
 
-###### Tools
+###### Tools I use
 
 <img align="left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" width = "40px"/>
 <img align="left" src = "https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" width = "42px"/>
