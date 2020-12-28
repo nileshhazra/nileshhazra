@@ -4,7 +4,8 @@
 > I design & develop applications for the web and native platforms.
 
 
-* I can help you if you are starting out in web development.
+> I can help you if you are starting out in web development.
+> You can ping me on [twittter][twitter].
 
 
 ###### Languages & Frameworks I know
