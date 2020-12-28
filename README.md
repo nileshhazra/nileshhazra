@@ -8,10 +8,6 @@
 
 
 ###### Connect with me
-[www.nileshhazra.me][website]
-[Twitter][twitter]
-[Linkedin][linkedin]
-[Instagram][instagram]
 <br><br>
 [<img align="left" src = "http://simpleicons.org/icons/codesandbox.svg" width = "22px"/>][codesandbox] 
 [<img align="left" src = "http://simpleicons.org/icons/twitter.svg" width = "22px"/>][twitter]
