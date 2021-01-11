@@ -23,7 +23,7 @@
 <img alt="ReactJS" align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width = "42px"/>
 <img alt="Flutter" align="left" src = "https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" width = "42px"/>
 <img alt="python" align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = "42px"/>
-<img alt="java" align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width = "42px"/> 
+<!-- <img alt="java" align="left" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width = "42px"/>  -->
 <br>
 <br>
 <hr>
