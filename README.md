@@ -5,7 +5,7 @@
 
 
 
-# I'm Nilesh Hazra
+# I'm Nilesh.
 
 > I design & develop applications for the web and native platforms.
 
