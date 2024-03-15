@@ -1,11 +1,11 @@
-### Hi there, I'm Nilesh 😊
+<img src="https://i.imgur.com/6i44YK6.png" />
 
-As a graduate with a master's degree in Mathematics and Computing, I have honed my problem-solving ability by tackling complex mathematical concepts. My academic background has equipped me with the skills to analyze and solve problems in a logical and efficient manner, while my knowledge of statistical and probabilistic methods allows me to make informed decisions based on data analysis. Additionally, my understanding of mathematical concepts has prepared me for a career in the tech industry, where I can apply my skills to develop innovative solutions and optimize processes.
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 
-I am currently working as a Research and Innovation Engineer at Adrosonic, where I am responsible for designing, implementing and maintaining data pipelines, ETL processes, and data warehousing solutions. In this role, I work closely with clients to understand their business needs and deliver effective solutions to help them make informed decisions based on their data.
 
-My passion for technology and my eagerness to learn new skills have led me to pursue a career in the tech industry. I am constantly seeking new challenges and opportunities to expand my knowledge and skills, and I am excited to be a part of this ever-evolving field. I am always looking to connect with like-minded professionals and expand my network in the tech industry.
+<a href="http://www.github.com/nileshhazra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshhazra&stroke=111&background=fff&ring=0891b2&fire=0891b2&currStreakNum=111&currStreakLabel=111&sideNums=111&sideLabels=111&dates=111&hide_border=true" /></a>
 
-- 🔭 I’m currently working on data migration project for a UK based Insurance Company.
-- 🌱 I’m currently learning front-end technologies (JavaScript)
-- 💬 Ask me about anything.
+
+ <hr><a href="https://www.ko-fi.com/nileshhazra"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
