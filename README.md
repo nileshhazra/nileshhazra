@@ -11,7 +11,7 @@
 
 
 
-<a href="http://www.github.com/nileshhazra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshhazra&stroke=111&background=fff&ring=0891b2&fire=0891b2&currStreakNum=111&currStreakLabel=111&sideNums=111&sideLabels=111&dates=111&hide_border=true" /></a>
+<!--<a href="http://www.github.com/nileshhazra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshhazra&stroke=111&background=fff&ring=0891b2&fire=0891b2&currStreakNum=111&currStreakLabel=111&sideNums=111&sideLabels=111&dates=111&hide_border=true" /></a>-->
 
 
    <a href="https://www.ko-fi.com/nileshhazra"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
