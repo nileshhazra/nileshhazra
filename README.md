@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/6i44YK6.png" />
+# Hi there, Welcome to my Github Profile. I'm Nilesh.
+<img src="https://i.imgur.com/FNO8M3E.png" width=200 />
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -8,7 +9,6 @@
  [![My Skills](https://skillicons.dev/icons?i=git,kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  <!--[![My Skills](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)-->
 <br/>
-
 
 
 <!--<a href="http://www.github.com/nileshhazra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshhazra&stroke=111&background=fff&ring=0891b2&fire=0891b2&currStreakNum=111&currStreakLabel=111&sideNums=111&sideLabels=111&dates=111&hide_border=true" /></a>-->
