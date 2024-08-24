@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/Rx1UFuA.png" width=700 />
+<img src="https://i.imgur.com/IUi0tZb.png" style="border-radius: 100%;"/>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
