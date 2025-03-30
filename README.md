@@ -1,6 +1,20 @@
 
 <img src="https://i.imgur.com/IUi0tZb.png" style="border-radius: 100%;"/>
 
+###  Hello, I’m Nilesh!
+
+- Passionate about software development and always eager to learn and build innovative solutions.
+
+- I love working with new technologies and solving complex problems.
+
+- Currently working on: Data Integration Project for a marine Insurance company.
+
+- Always learning: Java, JavaScript, SQL
+
+<br/>
+
+
+###  Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,7 +73,7 @@
   - **Do you want to play the game?**
   - **Or do you want to change the game?**-->
 
-
+###  Let’s Connect!
 
  &nbsp;&nbsp;<a href="https://www.twitter.com/nileshhazra"><img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/Twitter-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nileshhazra"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
