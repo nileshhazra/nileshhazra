@@ -9,7 +9,7 @@
 
 - Currently working on: Data Integration Project for a marine Insurance company.
 
-- Always learning: Java, JavaScript, SQL
+- Always learning: Anything and Everything
 
 <br/>
 
