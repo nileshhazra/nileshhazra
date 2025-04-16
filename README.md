@@ -7,7 +7,7 @@
 
 - I love working with new technologies and solving complex problems.
 
-- Currently working on: Data Integration Project for a marine Insurance company.
+- Currently working on: Data Engineering Project for a marine Insurance company.
 
 - Always learning: Anything and Everything
 
