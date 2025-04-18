@@ -72,13 +72,15 @@
 - **Final Question**:
   - **Do you want to play the game?**
   - **Or do you want to change the game?**-->
-
+<br><br>
 ###  Let’s Connect!
 
- &nbsp;&nbsp;<a href="https://www.twitter.com/nileshhazra"><img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/Twitter-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nileshhazra"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://wa.me/7488172988"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Whatsapp-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.snapchat.com/add/nilesh.hazra"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Snapchat-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Let's stay in touch. Feel free to contact me on following platforms - 
+
+ &nbsp;&nbsp;<a href="https://www.twitter.com/nileshhazra"><img src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/Twitter-256.png" width="30"/></a> 
+&nbsp;&nbsp; <a href="https://www.linkedin.com/in/nileshhazra"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <!--<a href="https://wa.me/7488172988"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Whatsapp-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.snapchat.com/add/nilesh.hazra"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Snapchat-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 
   
 
