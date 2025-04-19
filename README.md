@@ -21,7 +21,7 @@
   [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![My Skills](https://skillicons.dev/icons?i=git,kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- [![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,spring)](https://skillicons.dev)
 <br/>
 <br/>
 
