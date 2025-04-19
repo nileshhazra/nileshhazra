@@ -1,8 +1,5 @@
 
-<img src="https://i.imgur.com/FNO8M3E.png" width= 150/>
-
-<a href="https://www.ko-fi.com/nileshhazra"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
+<!--<img src="https://i.imgur.com/FNO8M3E.png" width= 150/>-->
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I’m Nilesh!
 
@@ -32,11 +29,11 @@
 
 Here’s a quick look at the languages I work with the most:
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshhazra&layout=compact&theme=default)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshhazra&layout=compact&theme=dark)
 
 
 <!--<a href="http://www.github.com/nileshhazra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshhazra&stroke=111&background=fff&ring=0891b2&fire=0891b2&currStreakNum=111&currStreakLabel=111&sideNums=111&sideLabels=111&dates=111&hide_border=true" /></a>-->
-<br><br>
+<br>
 <a href="https://www.ko-fi.com/nileshhazra"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ##  📬 &nbsp;Let’s Connect!
