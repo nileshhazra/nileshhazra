@@ -15,13 +15,13 @@
 
 
 ## 🏓 &nbsp;Skills
-
+ [![My Skills](https://skillicons.dev/icons?i=python,scala,kafka)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,redis)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   [![My Skills](https://skillicons.dev/icons?i=git,kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- [![My Skills](https://skillicons.dev/icons?i=git,kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- [![My Skills](https://skillicons.dev/icons?i=python,spring)](https://skillicons.dev)
+
 <br/>
 <br/>
 
