@@ -15,7 +15,7 @@
 
 
 ## 🏓 &nbsp;Skills
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width=40/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width=40/>&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" width=40/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    [![My Skills](https://skillicons.dev/icons?i=git,kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
