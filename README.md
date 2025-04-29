@@ -20,8 +20,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,htmx)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=django,react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 <br/>
 <br/>
