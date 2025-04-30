@@ -23,18 +23,22 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
-<br/>
 
-## 🎲  &nbsp;Most Used Languages
+## 🎲  &nbsp;Projects
 
-Here’s a quick look at the languages I work with the most:
+Here’s a quick look at the projects I have worked on : <br>
+- &nbsp;&nbsp; Project 1: Exploratory Data Analysis
+  - [GitHub Repo](https://..) |  [Website](https://..)  <br><br>
+- &nbsp;&nbsp; Project 2: Data Warehousing
+  - [GitHub Repo](https://..) |  [Website](https://..)  <br><br>
+- &nbsp;&nbsp; Project 3: Data Migration
+  - [GitHub Repo](https://..) |  [Website](https://..)  <br><br>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshhazra&layout=compact&theme=default)
 
 
-<!--<a href="http://www.github.com/nileshhazra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshhazra&stroke=111&background=fff&ring=0891b2&fire=0891b2&currStreakNum=111&currStreakLabel=111&sideNums=111&sideLabels=111&dates=111&hide_border=true" /></a>-->
+
+
 <br>
-<a href="https://www.ko-fi.com/nileshhazra"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ##  📬 &nbsp;Let’s Connect!
 
@@ -44,6 +48,12 @@ Let's stay in touch. Feel free to ping me on following platforms -
 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/nileshhazra"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  <!--![View count](https://komarev.com/ghpvc/?username=nileshhazra)
+
+ ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshhazra&layout=compact&theme=dark)
+
+
+ <a href="https://www.ko-fi.com/nileshhazra"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <a href="https://wa.me/7488172988"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Whatsapp-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.snapchat.com/add/nilesh.hazra"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Snapchat-256.png" width="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
