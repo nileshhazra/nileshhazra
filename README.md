@@ -27,14 +27,16 @@
 
 <br/>
 
-## 🎲  &nbsp;Languages I Speak
+## 🎲  &nbsp;Blog Posts
 
-Below are the languages are use most frequently in my projects - 
+- &nbsp;&nbsp; Building a Data Warehousing Project: Best Practices for Clean, Scalable, and Efficient Systems - [Read here](https://www.linkedin.com/pulse/building-data-warehousing-project-best-practices-clean-nilesh-hazra-rpfaf)<br><br>
+- &nbsp;&nbsp; Getting Comfortable with SQL – Foundational Concepts [Read here](https://www.linkedin.com/posts/nileshhazra_just-published-a-new-article-getting-activity-7319744171542503424-OwQJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ59QUBQrmWA0o1mWHZTdSVImT31L5TKjI)
 
+
+<!--
  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshhazra&layout=donut-vertical&theme=default)
 
-
-<!--Here’s a quick look at the projects I have worked on : <br>
+Here’s a quick look at the projects I have worked on : <br>
 - &nbsp;&nbsp; Project 1: Exploratory Data Analysis
   - [GitHub Repo](https://..) |  [Website](https://..)  <br><br>
 - &nbsp;&nbsp; Project 2: Data Warehousing
