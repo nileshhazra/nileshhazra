@@ -15,9 +15,8 @@
 
 
 ## 🏓 &nbsp;Skills
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width=80/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width=90/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://data.it-novum.com/wp-content/uploads/2021/02/apache_kafka_logo-1200x547.png" width=90/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width=80/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://data.it-novum.com/wp-content/uploads/2021/02/apache_kafka_logo-1200x547.png" width=90/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width=40/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
