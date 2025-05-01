@@ -27,15 +27,21 @@
 
 <br/>
 
-## 🎲  &nbsp;Projects
+## 🎲  &nbsp;Languages I Speak
 
-Here’s a quick look at the projects I have worked on : <br>
+Below are the languages are use most frequently in my projects - 
+
+ ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshhazra&layout=donut-vertical&theme=default)
+
+
+<!--Here’s a quick look at the projects I have worked on : <br>
 - &nbsp;&nbsp; Project 1: Exploratory Data Analysis
   - [GitHub Repo](https://..) |  [Website](https://..)  <br><br>
 - &nbsp;&nbsp; Project 2: Data Warehousing
   - [GitHub Repo](https://..) |  [Website](https://..)  <br><br>
 - &nbsp;&nbsp; Project 3: Data Migration
   - [GitHub Repo](https://..) |  [Website](https://..)  <br><br>
+  -->
 
 
 
