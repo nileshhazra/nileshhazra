@@ -27,7 +27,7 @@
 
 <br/>
 
-## 🎲  &nbsp;Blog Posts
+## 🎲  &nbsp;Articles
 
 - &nbsp;&nbsp; Building a Data Warehousing Project: Best Practices for Clean, Scalable, and Efficient Systems - [Read here](https://www.linkedin.com/pulse/building-data-warehousing-project-best-practices-clean-nilesh-hazra-rpfaf)<br><br>
 - &nbsp;&nbsp; Getting Comfortable with SQL – Foundational Concepts - [Read here](https://www.linkedin.com/posts/nileshhazra_just-published-a-new-article-getting-activity-7319744171542503424-OwQJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQ59QUBQrmWA0o1mWHZTdSVImT31L5TKjI)
