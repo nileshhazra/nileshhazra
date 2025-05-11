@@ -1,7 +1,7 @@
 
-<!--<img src="https://i.imgur.com/FNO8M3E.png" width= 150/>-->
+<img src="https://imgur.com/IUi0tZb.png"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I’m Nilesh!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am a Software Engineer - [ Data ]
 
 - Passionate about software development and always eager to learn and build innovative solutions.
 
