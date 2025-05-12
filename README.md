@@ -1,6 +1,10 @@
 ##  🗣️ Be kind to yourself and others
 We’re all doing our best in ways the world may never see. Kindness fuels connection and creates space for growth in ourselves and in others.
 
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![X](https://img.shields.io/badge/Twitter-110000?style=for-the-badge&logo=x&logoColor=white)
+
+
 
 
 <img src="https://imgur.com/IUi0tZb.png"/>
