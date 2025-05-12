@@ -1,5 +1,5 @@
 ##  🗣️ Be kind to yourself and others
-We’re all doing our best in ways the world may never see. Kindness fuels connection, strengthens character, and creates space for growth in ourselves and in others.
+We’re all doing our best in ways the world may never see. Kindness fuels connection and creates space for growth in ourselves and in others.
 
 
 
