@@ -24,16 +24,16 @@ We’re all doing our best in ways the world may never see. Kindness fuels conne
 ## Education
 
 
-- 📖 **Masters' Mathematics and Computer Sc.**\
-📆 2017 - 2022\
-📍 **Birla Institute of Technology** - Ranchi, India
+- **Masters' Mathematics and Computer Sc.**\
+2017 - 2022\
+**Birla Institute of Technology** - Ranchi, India
 
 ## Experience
 
 
-- 👨‍💻 **Research and Innovation Engineer**\
-📆 2022 - present\
-📍 **Adrosonic** - Mumbai, India
+- **Research and Innovation Engineer**\
+2022 - present\
+**Adrosonic** - Mumbai, India
 
 </details>
 
