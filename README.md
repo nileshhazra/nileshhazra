@@ -1,6 +1,8 @@
 ##  🗣️ Be kind to yourself and others
 We’re all doing our best in ways the world may never see. Kindness fuels connection, strengthens character, and creates space for growth in ourselves and in others.
 
+
+
 <img src="https://imgur.com/IUi0tZb.png"/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am a Software Engineer
@@ -12,6 +14,28 @@ We’re all doing our best in ways the world may never see. Kindness fuels conne
 - Currently working on: Data Engineering Project for a marine Insurance company.
 
 - Always learning: Anything and Everything
+
+  <br/>
+
+<details>
+  <summary>Education and Work Ex.</summary>
+
+
+## Education
+
+
+- 📖 **Masters' Mathematics and Computer Sc.**\
+📆 2017 - 2022\
+📍 **Birla Institute of Technology** - Ranchi, India
+
+## Experience
+
+
+- 👨‍💻 **Research and Innovation Engineer**\
+📆 2022 - present\
+📍 **Adrosonic** - Mumbai, India
+
+</details>
 
 <br/>
 
@@ -25,6 +49,8 @@ We’re all doing our best in ways the world may never see. Kindness fuels conne
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=sass,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 
 <br/>
