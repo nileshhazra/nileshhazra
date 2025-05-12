@@ -20,20 +20,29 @@ We’re all doing our best in ways the world may never see. Kindness fuels conne
 <details>
   <summary>Education and Work Ex.</summary>
 
-
-## Education
-
-
-- **Masters' Mathematics and Computer Sc.**\
-2017 - 2022\
-**Birla Institute of Technology** - Ranchi, India
-
 ## Experience
 
 
 - **Research and Innovation Engineer**\
 2022 - present\
 **Adrosonic** - Mumbai, India
+  - Facilitated regular communication with stakeholders to gather updated project requirements and manage changes; led meetings with clear
+objectives, actionable outcomes, and follow‑ups to ensure alignment and progress.
+  - Developed Talend jobs for incremental data load from source systems to target systems, facilitating data synchronization and report generation.
+  - Designed and implemented ETL processes using staging and landing layers for efficient daily incremental data loading.
+  - Resolved production bugs, addressed efficiency issues, and implemented robust fixes to enhance system performance and reliability within
+Talend. and reliability within Talend.
+- **Technical Skills:** SQL, Data modeling, Data warehousing, MS SQL Server, Snowflake, MS Dynamics, Java, Git, Shell Scripting
+- **Soft Skills:** Teamwork, Time Management, Communication, Presentation skills.
+## Education
+
+
+- **Masters' Mathematics and Computer Sc.**\
+2017 - 2022\
+**Birla Institute of Technology, Mesra** - Ranchi, India
+  - **Maths:** Numerical Methods, Statistics & Probability, Operations Research, Optimization Techniques, Modern and Linear Algebra
+  - **CS:** Operating Systems, Computer Networks, Computer System Architecture, C, Unix, Data Structures, Algorithms, Java, Database Management Systems, HTML, CSS, JavaScript
+
 
 </details>
 
