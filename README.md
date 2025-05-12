@@ -1,7 +1,9 @@
+##  🗣️ Be kind to yourself and others
+We’re all doing our best in ways the world may never see. Kindness fuels connection, strengthens character, and creates space for growth in ourselves and in others.
 
 <img src="https://imgur.com/IUi0tZb.png"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am a Software Engineer - [ Data ]
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am a Software Engineer
 
 - Passionate about software development and always eager to learn and build innovative solutions.
 
