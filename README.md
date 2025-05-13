@@ -2,7 +2,8 @@
 We’re all doing our best in ways the world may never see. Kindness fuels connection and creates space for growth in ourselves and in others.
 
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![X](https://img.shields.io/badge/Twitter-110000?style=for-the-badge&logo=x&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
 
 
