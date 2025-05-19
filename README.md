@@ -25,7 +25,26 @@ We’re all doing our best in ways the world may never see. Kindness fuels conne
 
 - Always learning: Anything and Everything
 
+
+
+
   <br/>
+
+  
+## 🏓 &nbsp;Skills
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width=80/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=kafka,sqlite)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+<br/>
 
 <details>
   <summary><h2> Education and Experience</h2></summary>
@@ -59,20 +78,6 @@ Talend. and reliability within Talend.
 <br/>
 
 
-## 🏓 &nbsp;Skills
-<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width=80/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=kafka,sqlite)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=git,kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-
-<br/>
 
 ## 🎲  &nbsp;Articles
 
