@@ -22,7 +22,7 @@ We’re all doing our best in ways the world may never see. Kindness fuels conne
 
 - Currently working on: Data Engineering Project for a marine Insurance company.
 
-- Always learning: Anything and Everything
+- Always learning.
 
 
 
