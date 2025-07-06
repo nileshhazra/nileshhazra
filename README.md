@@ -6,17 +6,16 @@ We’re all doing our best in ways the world may never see. Kindness fuels conne
 ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
 
-
--->
 <img src="https://imgur.com/IUi0tZb.png"/>
 
+-->
 
 
 
 
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am a Software Engineer
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, My name is Nilesh. I am a developer!
 - Passionate about software development and always eager to learn and build innovative solutions.
 
 - I love working with new technologies and solving complex problems.
