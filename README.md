@@ -33,7 +33,7 @@ We’re all doing our best in ways the world may never see. Kindness fuels conne
   
 ## 🏓 &nbsp;Skills
 <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width=80/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=kafka,sqlite)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
