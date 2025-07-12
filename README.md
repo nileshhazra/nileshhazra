@@ -47,7 +47,7 @@ We’re all doing our best in ways the world may never see. Kindness fuels conne
 <br/>
 
 <!--<details>
-  <summary><h2> Education and Experience</h2></summary>-->
+  <summary><h2> Education and Experience</h2></summary>
 
 ## Experience
 
@@ -77,7 +77,7 @@ Talend. and reliability within Talend.
 
 <br/>
 
-
+-->
 
 ## 🎲  &nbsp;Articles
 
