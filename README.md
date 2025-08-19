@@ -16,7 +16,7 @@ We’re all doing our best in ways the world may never see. Kindness fuels conne
 
 
 
-##  ☕ &nbsp; Hi, My name is Nilesh. I am a developer! 
+##  ☕ &nbsp; Hi, My name is Nilesh. I work with data! 
 - Passionate about software development and always eager to learn and build innovative solutions.
 
 - I love working with new technologies and solving complex problems.
